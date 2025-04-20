@@ -21,6 +21,7 @@
 - A Survey on Vision-Language-Action Models for Embodied AI[![arXiv](https://img.shields.io/badge/arXiv-2024.05-red?)](http://arxiv.org/abs/2405.14093)
 
 ### 🤔 High-level Embodied Reasoning
-| Title | Intro | Resources |
+| Title | Intro |  Resources |
 |----------|-----|---------|
-| Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks <br>[![arXiv](https://img.shields.io/badge/arXiv-2025.03-red?)](https://arxiv.org/abs/2503.21696) [![GitHub Repo stars](https://img.shields.io/github/stars/zwq2018/embodied_reasoner)](https://github.com/zwq2018/embodied_reasoner)  | ![Embodied Reasoner](paper-images/embodied-reasoner-2025-3.jpg) | [💻Code](https://github.com/zwq2018/embodied_reasoner)<br>[📊Dataset](https://huggingface.co/datasets/zwq2018/embodied_reasoner/)<br>[🌐Website](https://github.com/zwq2018/embodied_reasoner)|
+| Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks <br>[![arXiv](https://img.shields.io/badge/arXiv-2025.03-red?)](https://arxiv.org/abs/2503.21696) [![GitHub Repo stars](https://img.shields.io/github/stars/zwq2018/embodied_reasoner)](https://github.com/zwq2018/embodied_reasoner)  | ![Embodied Reasoner](paper-images/embodied-reasoner-2025-3.jpg) | [Code](https://github.com/zwq2018/embodied_reasoner)<br>[Dataset](https://huggingface.co/datasets/zwq2018/embodied_reasoner/)<br>[Website](https://github.com/zwq2018/embodied_reasoner)|
+
