@@ -23,5 +23,5 @@
 ### 🤔 High-level Embodied Reasoning
 | Title | Intro |  Resources |
 |----------|-----|---------|
-| Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks <br>[![arXiv](https://img.shields.io/badge/arXiv-2025.03-red?)](https://arxiv.org/abs/2503.21696) [![GitHub Repo stars](https://img.shields.io/github/stars/zwq2018/embodied_reasoner)](https://github.com/zwq2018/embodied_reasoner)  | <img src="paper-images/embodied-reasoner-2025-3.jpg" width="600" />  | [💻Code](https://github.com/zwq2018/embodied_reasoner)<br>[📊Dataset](https://huggingface.co/datasets/zwq2018/embodied_reasoner/)<br>[🌐Website](https://github.com/zwq2018/embodied_reasoner)|
+| Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks <br>[![arXiv](https://img.shields.io/badge/arXiv-2025.03-red?)](https://arxiv.org/abs/2503.21696) [![GitHub Repo stars](https://img.shields.io/github/stars/zwq2018/embodied_reasoner)](https://github.com/zwq2018/embodied_reasoner)  | <img src="paper-images/embodied-reasoner-2025-3.jpg" width="990" />  | [Code](https://github.com/zwq2018/embodied_reasoner)<br>[Dataset](https://huggingface.co/datasets/zwq2018/embodied_reasoner/)<br>[Website](https://github.com/zwq2018/embodied_reasoner)|
 
