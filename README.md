@@ -11,8 +11,8 @@
 ## 🔥 news
 [2025-04] We created this repository to organize papers and repositories related to Embodied Intelligence
 
-### 🤔 Thoughtful Blogs
-#### Multi-agent
+## 🤔 Thoughtful Blogs
+### Multi-agent
 - [How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system) (From Anthropic, published Jun 13,2025)
 
 ## 📑 Papers
